@@ -1,5 +1,5 @@
 [db]
-db.sarath78.site
+db.sarath78.site ansible_host=172.31.84.14
 
 [backend]
 backend.sarath78.site
